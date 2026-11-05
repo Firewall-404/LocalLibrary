@@ -7,37 +7,6 @@ Your neighborhood has decided to put together a local library where people can l
 
 Other people are taking care of the logistics and design, but they need you to build the algorithms.
 
-## Project rubric
-For your project to pass, all of the following statements must be true. These criteria are reflected in the rubric in the following lesson.
-
-All tests are passing in Qualified.
-
-The project doesn't include any single-letter variables.
-
-The project makes at least one use of an arrow function.
-
-The project makes at least one use of each of the following native array methods: find() and filter().
-
-The project uses at least one of the following JavaScript features: the ternary operator, the spread operator, object shorthand, array or object destructuring, and for/in loops.
-
-The project submission includes a detailed README section containing the following:
-
-A plan detailing the functions, features, algorithms, and other coding choices for the project
-
-An implementation plan describing how you intend to implement your plan
-
-The description of an example of an acceptable navigation structure
-
-A reflection of the coding trade-offs you made for the project
-
-Justification of your choices, challenges, and debugging or troubleshooting moments
-
-A list of the AI tools used with justification
-
-A short 100 to 150 words (or 3 bullets) summary regarding the project process
-
-GitHub commit history and Replit screenshots illustrating each decision
-
 ## Completing each function
 
 Using the hints, I used the mozilla documentation and the function-instructions.md to complete functions. This also helped meet the requirements of using both native array methods: find() and filter(). No AI was utilized in this project. 
@@ -80,8 +49,53 @@ This project will be able to be utilized by the local library for readers to acc
 
 The css and html of the website is already taken care of. It will have general stats, but navigation will be by authors, books, and accounts. One of the most important features needed to organize this is a dashboard that will show which books are available, which are currently out, and other general statistics about the program. 
 
+## Running screenshots
 
+Example of working project in integrated browser
+![display](https://github.com/Firewall-404/LocalLibrary/blob/main/screenshots/display.png?raw=true)
 
+Added code into accounts.js
+![accounts](https://github.com/Firewall-404/LocalLibrary/blob/main/screenshots/accounts.png?raw=true)
 
+Added code into books.js
+![books](https://github.com/Firewall-404/LocalLibrary/blob/main/screenshots/books.png?raw=true)
 
+Added code into home.js
+![home](https://github.com/Firewall-404/LocalLibrary/blob/main/screenshots/home.png?raw=true)
 
+## Commit History
+
+This project was completed in the Qualified Web ide which I do not have access to anymore.
+
+![gitLog](https://github.com/Firewall-404/LocalLibrary/blob/main/screenshots/gitLog.png?raw=true)
+
+## Project rubric
+For your project to pass, all of the following statements must be true. These criteria are reflected in the rubric in the following lesson.
+
+All tests are passing in Qualified.
+
+The project doesn't include any single-letter variables.
+
+The project makes at least one use of an arrow function.
+
+The project makes at least one use of each of the following native array methods: find() and filter().
+
+The project uses at least one of the following JavaScript features: the ternary operator, the spread operator, object shorthand, array or object destructuring, and for/in loops.
+
+The project submission includes a detailed README section containing the following:
+
+A plan detailing the functions, features, algorithms, and other coding choices for the project
+
+An implementation plan describing how you intend to implement your plan
+
+The description of an example of an acceptable navigation structure
+
+A reflection of the coding trade-offs you made for the project
+
+Justification of your choices, challenges, and debugging or troubleshooting moments
+
+A list of the AI tools used with justification
+
+A short 100 to 150 words (or 3 bullets) summary regarding the project process
+
+GitHub commit history and Replit screenshots illustrating each decision
